@@ -6,6 +6,7 @@
 :hivemq-support: http://www.hivemq.com/support/
 :hivemq-testcontainer: https://github.com/hivemq/hivemq-testcontainer
 :hivemq-mqtt-client: https://github.com/hivemq/hivemq-mqtt-client
+:kotlin-maven: https://kotlinlang.org/docs/reference/using-maven.html
 
 == HiveMQ 4 Kotlin Hello World Extension
 
@@ -28,6 +29,10 @@ to generate a basic extension from the IDE in Java.
 
 It is strongly recommended to read the {hivemq-extension-docs-link}[HiveMQ Extension Documentation]
 to grasp the core concepts of HiveMQ extension development.
+
+=== Using Kotlin with Maven ===
+
+You can find information on how to us Kotlin with Apache Maven in official {kotlin-maven}[Kotlin documentation].
 
 === Installation
 
